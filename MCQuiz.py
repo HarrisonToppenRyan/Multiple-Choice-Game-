@@ -6,9 +6,9 @@ class Question:
         self.answer = answer 
      
 question_promps = [ 
-    "What color are apples?\n(a) Red/Green\n(b) Purple\n(c) Orange\n\n"
-    "What color are Bananas?\n(a) Teal\n(b) Magenta\n(c) Yellow\n\n"
-    "What color are strawberries?\n(a) Yellow\n(b) Red\n(c) Blue\n\n"
+    "What is Magnus Carlson's full name?\n(a) Sven Magnus Øen Carlsen\n(b) Magnus Bjørn Carlsen\n(c) Håvard Magnus Øystein Carlsen\n\n"
+    "What is Kasparov's favorite chess opening with the black peices?\n(a) Sicilian Defense: Scheveningen\n(b) King’s Indian Defence, Samisch\n(c) Gruenfeld Defense\n\n"
+    "How long was Fischer world champion before he forfited his title to Karpov?\n(a) 5 years\n(b) 3 years\n(c) 2 years\n\n"
 ]
 
 questions = [ 
