@@ -1,5 +1,10 @@
 from Question import Question
 
+class Question:
+    def __init__(self, prompt, answer):
+        self.prompt = prompt 
+        self.answer = answer 
+     
 question_promps = [ 
     "What color are apples?\n(a) Red/Green\n(b) Purple\n(c) Orange\n\n"
     "What color are Bananas?\n(a) Teal\n(b) Magenta\n(c) Yellow\n\n"
